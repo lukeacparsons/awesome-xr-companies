@@ -9,6 +9,6 @@ https://about.meta.com/realitylabs/
 ## Non-Gaming
 Gravity Sketch https://www.gravitysketch.com/
 
-Gaming
+## Gaming
 
-Headsets & Hardware
+## Headsets & Hardware
