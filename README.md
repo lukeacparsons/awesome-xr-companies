@@ -3,12 +3,12 @@ A list of companies working in the VR, AR (XR) space.
 
 # Applications
 ## Non-Gaming
-Gravity Sketch https://www.gravitysketch.com/
+Gravity Sketch, London, UK https://www.gravitysketch.com/
 
 ## Gaming
-IRL Studios Inc. https://www.linkedin.com/company/irlstudios/ - Makers of Gym Class VR (Basketball)
+IRL Studios Inc. Santa Monica, CA, USA https://www.linkedin.com/company/irlstudios/ - Makers of Gym Class VR (Basketball)
 
-For Fun Labs https://www.linkedin.com/company/for-fun-labs/ - Makers of Eleven VR (Table Tennis)
+For Fun Labs, Austin TX, USA https://www.linkedin.com/company/for-fun-labs/ - Makers of Eleven VR (Table Tennis)
 * https://elevenvr.com/en/
 
 # Headsets & Hardware
