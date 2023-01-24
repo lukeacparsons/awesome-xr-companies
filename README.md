@@ -7,6 +7,8 @@ Gravity Sketch, London, UK https://www.gravitysketch.com/
 
 Zaubar, Berlin, DE https://zaubar.com/ - AR based tours platform.
 
+Nexus Studios, London, UK https://nexusstudios.com/immersive/ - Creative AR & Immersive studio.
+
 ## Gaming
 IRL Studios Inc. Santa Monica, CA, USA https://www.linkedin.com/company/irlstudios/ - Makers of Gym Class VR (Basketball)
 
