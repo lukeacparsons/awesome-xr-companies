@@ -5,6 +5,8 @@ A list of companies working in the VR, AR (XR) space.
 ## Non-Gaming
 Gravity Sketch, London, UK https://www.gravitysketch.com/
 
+Zaubar, Berlin, DE https://zaubar.com/ - AR based tours platform.
+
 ## Gaming
 IRL Studios Inc. Santa Monica, CA, USA https://www.linkedin.com/company/irlstudios/ - Makers of Gym Class VR (Basketball)
 
