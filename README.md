@@ -10,18 +10,21 @@ The format for companies is the following:
 # Apps & Games
 ## Europe & UK
 [Gravity Sketch](https://www.gravitysketch.com/) | London, UK 
-* VR design prototyping. 
+* VR design prototyping.
 * [Jobs](https://www.gravitysketch.com/careers/)
+* [Demo](https://www.youtube.com/watch?v=N1RMaav-mSM)
 
-[Nexus Studios](https://nexusstudios.com/immersive/) | London, UK | 
+[Nexus Studios](https://nexusstudios.com/immersive/) | London, UK
 * Creative AR & Immersive studio. 
 * [Jobs](https://nexusstudios.com/joinus/)
 
 [Fit XR](https://fitxr.com/) | London, UK & Remote
-* VR fitness studios. | [Jobs](https://fitxr-1642768457.teamtailor.com/jobs)
+* VR fitness studios. 
+* [Jobs](https://fitxr-1642768457.teamtailor.com/jobs)
 
 [Zaubar](https://zaubar.com/) | Berlin, Germany
-* AR based tours platform. | [Jobs](https://join.com/companies/zaubar)
+* AR based tours platform. 
+*[Jobs](https://join.com/companies/zaubar)
 
 [Amelia Virtual Care](https://ameliavirtualcare.com/) | Barcelona, Spain
 * VR tool for mental health professionals. | [Jobs](https://jobs.ameliavirtualcare.com/#jobs)
