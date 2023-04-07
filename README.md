@@ -3,9 +3,11 @@ Collection of companies working in the VR, AR (XR) space.
 
 The format for companies is the following:
 
+```
 [Company Name](URL) | Based in | Founded Year
 
 Short description.
+```
 
 # Applications
 
