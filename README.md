@@ -6,7 +6,7 @@ A list of companies working in the VR, AR (XR) space.
 
 
 | Name                                              | HQ Location   | About                    | Careers Page |
-| -------------                                     | ------------- | ------------------------ |              |
+| -------------                                     | ------------- | ------------------------ | ------------ |
 | [Gravity Sketch](https://www.gravitysketch.com/)  | London, UK    |                          |              |
 | [Zaubar](https://zaubar.com/)                     | Berlin, DE    | AR based tours platform. |              |
 
