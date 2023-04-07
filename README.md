@@ -6,14 +6,14 @@ The format for companies is the following:
 ```
 [Company Name](URL) | Based in | Founded Year
 
-Short description.
+ Short description.
 ```
 
 # Applications
 
 [Gravity Sketch](https://www.gravitysketch.com/) | London, UK | 2016
 
-VR design prototyping.
+ VR design prototyping.
 
 [Nexus Studios](https://nexusstudios.com/immersive/) | London, UK | ? 
 * Creative AR & Immersive studio.
