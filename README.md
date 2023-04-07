@@ -4,36 +4,36 @@ Collection of companies working in the VR, AR (XR) space.
 The format for companies is the following:
 
 ```
-[Company Name](URL) | Based in 
+* [Company Name](URL) | Based in 
 
  Short description.
 ```
 # Apps & Games
 ## Europe & UK
-[Gravity Sketch](https://www.gravitysketch.com/) | London, UK 
-* VR design prototyping.
+* [Gravity Sketch](https://www.gravitysketch.com/) | London, UK 
+ VR design prototyping.
 
-[Nexus Studios](https://nexusstudios.com/immersive/) | London, UK 
-* Creative AR & Immersive studio.
+* [Nexus Studios](https://nexusstudios.com/immersive/) | London, UK 
+ Creative AR & Immersive studio.
 
-[Zaubar](https://zaubar.com/) | Berlin, Germany
-* AR based tours platform.
+* [Zaubar](https://zaubar.com/) | Berlin, Germany
+ AR based tours platform.
 
-[Amelia Virtual Care](https://ameliavirtualcare.com/) | Barcelona, Spain
-* VR tool for mental health professionals.
+* [Amelia Virtual Care](https://ameliavirtualcare.com/) | Barcelona, Spain
+ VR tool for mental health professionals.
 
 ## USA
-[IRL Studios Inc](https://www.linkedin.com/company/irlstudios/), Santa Monica, USA 
-* Makers of Gym Class VR Basketball.
+* [IRL Studios Inc](https://www.linkedin.com/company/irlstudios/), Santa Monica, USA 
+ Makers of Gym Class VR Basketball.
 
-[For Fun Labs](https://www.linkedin.com/company/for-fun-labs/), Austin, USA 
-* Makers of Eleven VR Table Tennis. 
+* [For Fun Labs](https://www.linkedin.com/company/for-fun-labs/), Austin, USA 
+ Makers of Eleven VR Table Tennis. 
 
-[Immersed](https://www.linkedin.com/company/immersed/), Austin, USA 
-* Virtual desktop monitors.
+* [Immersed](https://www.linkedin.com/company/immersed/), Austin, USA 
+ Virtual desktop monitors.
 
-[VSpatial](https://www.vspatial.com/), Provo, USA 
-* Virtual office.
+* [VSpatial](https://www.vspatial.com/), Provo, USA 
+ Virtual office.
 
 
 # Headsets & Hardware
