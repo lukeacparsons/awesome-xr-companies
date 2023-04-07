@@ -2,21 +2,14 @@
 A list of companies working in the VR, AR (XR) space.
 
 # Applications
-## Non-Gaming
 
-
-| Name                                              			| HQ Location   | About                    		| Careers Page |
-| -------------                                     			| ------------- | ------------------------ 		| ------------ |
-| [Gravity Sketch](https://www.gravitysketch.com/)  			| London, UK    |                          		|              |
-| [Zaubar](https://zaubar.com/)                     			| Berlin, DE    | AR based tours platform. 		|              |
-| [Nexus Studios](https://nexusstudios.com/immersive/)		    	| London, UK    | Creative AR & Immersive studio. 	|              |
-
-## Gaming
-IRL Studios Inc. Santa Monica, CA, USA https://www.linkedin.com/company/irlstudios/ - Makers of Gym Class VR (Basketball)
-
-For Fun Labs, Austin TX, USA https://www.linkedin.com/company/for-fun-labs/ - Makers of Eleven VR (Table Tennis)
-* https://elevenvr.com/en/
+| Company                                              			| HQ Location   | About                    		| 
+| -------------                                     			| ------------- | ------------------------ 		|
+| [Gravity Sketch](https://www.gravitysketch.com/)  			| London, UK    | VR design prototyping. 		|
+| [Zaubar](https://zaubar.com/)                     			| Berlin, DE    | AR based tours platform. 		|
+| [Nexus Studios](https://nexusstudios.com/immersive/)		    	| London, UK    | Creative AR & Immersive studio. 	|
+| [IRL Studios Inc](https://www.linkedin.com/company/irlstudios/)	| Santa Monica, CA, USA    | Makers of Gym Class VR (Basketball).|
+| [For Fun Labs](https://www.linkedin.com/company/for-fun-labs/)	| Austin TX, USA | Makers of Eleven VR (Table Tennis).|
 
 # Headsets & Hardware
-Meta Reality Labs
-https://about.meta.com/realitylabs/
+| [Meta Reality Labs](https://about.meta.com/realitylabs/)		| USA | Meta Quest Headsets |
