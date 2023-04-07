@@ -6,10 +6,15 @@ The format for companies is the following:
 ```
 * [Company Name](URL) | Based in 
 
- Short description.
+  Short description.
 ```
 # Apps & Games
 ## Europe & UK
+
+- [AquaAgro](https://aquaagro.smartcube.pk/) | Karachi, Pakistan | 2018
+  Provides solutions for precision farming, enabling farmers to monitor their crops and make better decisions. Their devices and platform can make predictions for irrigation scheduling, fertilizer requirement, pest attack prediction, and plant disease detection.
+
+
 - [Gravity Sketch](https://www.gravitysketch.com/) | London, UK 
 
  VR design prototyping.
