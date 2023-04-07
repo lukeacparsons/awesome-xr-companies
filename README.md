@@ -30,7 +30,7 @@ The format for companies is the following:
 
   VR tool for mental health professionals.
 
-  * [Hiring page](https://jobs.ameliavirtualcare.com/#jobs)
+  [Careers](https://jobs.ameliavirtualcare.com/#jobs)
 
 ## USA
 - [IRL Studios Inc](https://www.linkedin.com/company/irlstudios/), Santa Monica, USA 
