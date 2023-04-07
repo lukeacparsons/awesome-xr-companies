@@ -47,7 +47,7 @@ The format for companies is the following:
 * Virtual office.
 
 ## Asia & Australia
-[Alta VR](https://www.altavr.io/) | Brisbane, QLD, Australia  & Remote
+[Alta VR](https://www.altavr.io/) | Brisbane, Australia  & Remote
 * VR RPG.
 * [Jobs](https://www.altavr.io/careers/)
 
