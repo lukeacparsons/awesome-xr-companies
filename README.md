@@ -31,7 +31,7 @@ The format for companies is the following:
 * [Jobs](https://jobs.ameliavirtualcare.com/#jobs)
 
 [Mad Collective](https://www.mad.io/) | Barcelona, Spain
-* Adult entertainment. 
+* Immersive video (adult).
 * [Jobs](https://www.mad.io/jobs)
 
 
