@@ -30,6 +30,11 @@ The format for companies is the following:
 * VR tool for mental health professionals. 
 * [Jobs](https://jobs.ameliavirtualcare.com/#jobs)
 
+[Mad Collective](https://www.mad.io/) | Barcelona, Spain
+* Adult entertainment. 
+* [Jobs](https://www.mad.io/jobs)
+
+
 ## USA
 [IRL Studios Inc](https://www.linkedin.com/company/irlstudios/) | Santa Monica, CA, USA
 * Makers of Gym Class VR Basketball. 
