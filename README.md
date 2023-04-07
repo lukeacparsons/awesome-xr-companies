@@ -1,4 +1,4 @@
-# awesome-xr-companies
+# awesome-xr-companies [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 A collection of companies building in the XR (VR and AR) space.
 
 The format for companies is the following:
