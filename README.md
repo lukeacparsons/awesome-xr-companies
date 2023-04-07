@@ -1,10 +1,10 @@
 # awesome-xr-companies
-Collection of companies working in the XR (VR and AR) space.
+Collection of companies building in the XR (VR and AR) space.
 
 The format for companies is the following:
 
 ```
-[Company Name](URL) | Based in | [Jobs](Career page url)
+[Company Name](URL) | Based in
 * Short description.
 ```
 # Apps & Games
@@ -52,7 +52,7 @@ The format for companies is the following:
 * Virtual office.
 
 ## Asia & Australia
-[Alta VR](https://www.altavr.io/) | Brisbane, QLD, Australia  & Remote
+[Alta VR](https://www.altavr.io/) | Brisbane, Australia  & Remote
 * VR RPG.
 * [Jobs](https://www.altavr.io/careers/)
 
