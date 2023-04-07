@@ -4,16 +4,16 @@ Collection of companies working in the XR (VR and AR) space.
 The format for companies is the following:
 
 ```
-[Company Name](URL) | Based in 
+[Company Name](URL) | Based in | [Jobs](Career page url)
 * Short description.
 ```
 # Apps & Games
 ## Europe & UK
-[Gravity Sketch](https://www.gravitysketch.com/) | London, UK 
-* VR design prototyping. | [Jobs](https://www.gravitysketch.com/careers/)
+[Gravity Sketch](https://www.gravitysketch.com/) | London, UK | [Jobs](https://www.gravitysketch.com/careers/)
+* VR design prototyping. 
 
-[Nexus Studios](https://nexusstudios.com/immersive/) | London, UK 
-* Creative AR & Immersive studio. [Jobs](https://nexusstudios.com/joinus/)
+[Nexus Studios](https://nexusstudios.com/immersive/) | London, UK | [Jobs](https://nexusstudios.com/joinus/)
+* Creative AR & Immersive studio. 
 
 [Fit XR](https://fitxr.com/) | London, UK & Remote
 * VR fitness studios. | [Jobs](https://fitxr-1642768457.teamtailor.com/jobs)
@@ -32,7 +32,7 @@ The format for companies is the following:
 * Makers of Eleven VR Table Tennis. | [Jobs](https://elevenvr.com/en/careers/)
 
 [Immersed](https://www.linkedin.com/company/immersed/), Austin, USA 
-* Virtual desktop monitors. [Jobs](https://www.linkedin.com/company/immersed/jobs/)
+* Virtual desktop monitors. | [Jobs](https://www.linkedin.com/company/immersed/jobs/)
 
 [VSpatial](https://www.vspatial.com/), Provo, USA 
 * Virtual office.
