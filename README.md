@@ -22,8 +22,7 @@ The format for companies is the following:
 * AR based tours platform.
 
 [Amelia Virtual Care](https://ameliavirtualcare.com/) | Barcelona, Spain
-* VR tool for mental health professionals.
-* [Careers](https://jobs.ameliavirtualcare.com/#jobs)
+* VR tool for mental health professionals. | [Careers](https://jobs.ameliavirtualcare.com/#jobs)
 
 ## USA
 [IRL Studios Inc](https://www.linkedin.com/company/irlstudios/), Santa Monica, USA 
