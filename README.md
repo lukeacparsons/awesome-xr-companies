@@ -8,10 +8,11 @@ Collection of companies working in the VR, AR (XR) space.
 | [Gravity Sketch](https://www.gravitysketch.com/)  			| London, UK    | VR design prototyping. 		|
 | [Nexus Studios](https://nexusstudios.com/immersive/)		    	| London, UK    | Creative AR & Immersive studio. 	|
 | [Zaubar](https://zaubar.com/)                     			| Berlin, DE    | AR based tours platform. 		|
-| [IRL Studios Inc](https://www.linkedin.com/company/irlstudios/)	| Santa Monica, CA, USA | Makers of Gym Class VR (Basketball).|
-| [For Fun Labs](https://www.linkedin.com/company/for-fun-labs/)	| Austin TX, USA | Makers of Eleven VR (Table Tennis).	|
-| [Immersed](https://www.linkedin.com/company/immersed/)		| Austin TX, USA | Virtual desktop monitors. 		|
-
+| [IRL Studios Inc](https://www.linkedin.com/company/irlstudios/)	| Santa Monica, USA | Makers of Gym Class VR (Basketball).|
+| [For Fun Labs](https://www.linkedin.com/company/for-fun-labs/)	| Austin, USA | Makers of Eleven VR (Table Tennis).	|
+| [Immersed](https://www.linkedin.com/company/immersed/)		| Austin, USA | Virtual desktop monitors. 		|
+| [VSpatial](https://www.vspatial.com/)					| Provo, USA | Virtual office. 		|
+| [Amelia Virtual Care](https://ameliavirtualcare.com/)			| Barcelona, ES | VR tool for mental health professionals.|
 
 
 # Headsets & Hardware
