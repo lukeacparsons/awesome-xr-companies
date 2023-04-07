@@ -9,8 +9,8 @@ The format for companies is the following:
 ```
 # Apps & Games
 ## Europe & UK
-[Gravity Sketch](https://www.gravitysketch.com/) | London, UK | [Jobs](https://www.gravitysketch.com/careers/)
-* VR design prototyping. 
+[Gravity Sketch](https://www.gravitysketch.com/) | London, UK 
+| VR design prototyping. |  [Jobs](https://www.gravitysketch.com/careers/) |
 
 [Nexus Studios](https://nexusstudios.com/immersive/) | London, UK | [Jobs](https://nexusstudios.com/joinus/)
 * Creative AR & Immersive studio. 
