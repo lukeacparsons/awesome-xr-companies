@@ -11,7 +11,7 @@ The format for companies is the following:
 
 # Applications
 
-#### [Gravity Sketch](https://www.gravitysketch.com/) | London, UK | 2016
+### [Gravity Sketch](https://www.gravitysketch.com/) | London, UK | 2016
 
 * VR design prototyping.
 
