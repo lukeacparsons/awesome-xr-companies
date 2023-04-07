@@ -31,19 +31,19 @@ The format for companies is the following:
 * [Jobs](https://jobs.ameliavirtualcare.com/#jobs)
 
 ## USA
-[IRL Studios Inc](https://www.linkedin.com/company/irlstudios/), Santa Monica, USA 
+[IRL Studios Inc](https://www.linkedin.com/company/irlstudios/) | Santa Monica, CA, USA
 * Makers of Gym Class VR Basketball. 
 * [Jobs](https://www.linkedin.com/company/irlstudios/jobs/)
 
-[For Fun Labs](https://www.linkedin.com/company/for-fun-labs/), Austin, USA 
+[For Fun Labs](https://www.linkedin.com/company/for-fun-labs/) | Austin, TX, USA 
 * Makers of Eleven VR Table Tennis. 
 * [Jobs](https://elevenvr.com/en/careers/)
 
-[Immersed](https://www.linkedin.com/company/immersed/), Austin, USA 
+[Immersed](https://www.linkedin.com/company/immersed/) | Austin, TX, USA 
 * Virtual desktop monitors.
 * [Jobs](https://www.linkedin.com/company/immersed/jobs/)
 
-[VSpatial](https://www.vspatial.com/), Provo, USA 
+[VSpatial](https://www.vspatial.com/) | Provo, UT, USA 
 * Virtual office.
 
 # Headsets & Hardware
