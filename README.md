@@ -1,5 +1,5 @@
 # awesome-xr-companies
-Collection of companies building in the XR (VR and AR) space.
+A collection of companies building in the XR (VR and AR) space.
 
 The format for companies is the following:
 
@@ -37,11 +37,11 @@ The format for companies is the following:
 
 ## USA
 [IRL Studios Inc](https://www.linkedin.com/company/irlstudios/) | Santa Monica, CA
-* Makers of Gym Class VR Basketball. 
+* Gym Class VR Basketball. 
 * [Jobs](https://www.linkedin.com/company/irlstudios/jobs/)
 
 [For Fun Labs](https://www.linkedin.com/company/for-fun-labs/) | Austin, TX
-* Makers of Eleven VR Table Tennis. 
+* Eleven VR Table Tennis. 
 * [Jobs](https://elevenvr.com/en/careers/)
 
 [Immersed](https://www.linkedin.com/company/immersed/) | Austin, TX
