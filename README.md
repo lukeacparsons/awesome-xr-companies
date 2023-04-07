@@ -1,4 +1,4 @@
-# awesome-vr-companies
+# awesome-xr-companies
 A list of companies working in the VR, AR (XR) space.
 
 # Applications
