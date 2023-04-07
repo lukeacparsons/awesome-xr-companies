@@ -1,12 +1,18 @@
 # awesome-xr-companies
 Collection of companies working in the VR, AR (XR) space.
 
+The format for companies is the following:
+
+[Company Name](URL) | Based in | Founded Year
+
+Short description.
+
 # Applications
 
-[Gravity Sketch](https://www.gravitysketch.com/), London, UK
-* VR design prototyping.
+[Gravity Sketch](https://www.gravitysketch.com/) | London, UK | 2016
+VR design prototyping.
 
-[Nexus Studios](https://nexusstudios.com/immersive/), London, UK
+[Nexus Studios](https://nexusstudios.com/immersive/) | London, UK | ? 
 * Creative AR & Immersive studio.
 
 [Zaubar](https://zaubar.com/), Berlin, DE
