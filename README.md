@@ -4,7 +4,7 @@ Collection of companies building in the XR (VR and AR) space.
 The format for companies is the following:
 
 ```
-[Company Name](URL) | Based in | [Jobs](Career page url)
+[Company Name](URL) | Based in
 * Short description.
 ```
 # Apps & Games
