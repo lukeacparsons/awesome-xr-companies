@@ -4,13 +4,12 @@ Collection of companies working in the VR, AR (XR) space.
 The format for companies is the following:
 
 ```
-* [Company Name](URL) | Based in 
+- [Company Name](URL) | Based in 
 
   Short description.
 ```
 # Apps & Games
 ## Europe & UK
-
 - [Gravity Sketch](https://www.gravitysketch.com/) | London, UK 
 
   VR design prototyping.
@@ -26,6 +25,10 @@ The format for companies is the following:
 - [Amelia Virtual Care](https://ameliavirtualcare.com/) | Barcelona, Spain
 
   VR tool for mental health professionals.
+
+- [Fit XR](https://fitxr.com/) | London, UK & Remote
+
+  VR fitness studios. 
 
 ## USA
 - [IRL Studios Inc](https://www.linkedin.com/company/irlstudios/), Santa Monica, USA 
