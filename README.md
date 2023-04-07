@@ -51,6 +51,10 @@ The format for companies is the following:
 [VSpatial](https://www.vspatial.com/) | Provo, UT, USA 
 * Virtual office.
 
+[Strivr](https://www.strivr.com/) | Santa Clara, CA, USA 
+* Immersive video and training, focussed on sports and industrial applications.
+* [Jobs](https://www.linkedin.com/company/strivr/jobs/) 
+
 ## Asia & Australia
 [Alta VR](https://www.altavr.io/) | Brisbane, Australia  & Remote
 * VR RPG.
