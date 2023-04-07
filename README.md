@@ -12,7 +12,7 @@ The format for companies is the following:
 ## Europe & UK
 - [Gravity Sketch](https://www.gravitysketch.com/) | London, UK 
 
-VR design prototyping.
+ VR design prototyping.
 
 - [Nexus Studios](https://nexusstudios.com/immersive/) | London, UK 
 
