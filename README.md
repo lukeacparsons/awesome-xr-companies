@@ -10,11 +10,12 @@ The format for companies is the following:
 # Apps & Games
 ## Europe & UK
 [Gravity Sketch](https://www.gravitysketch.com/) | London, UK 
+* VR design prototyping. 
+* [Jobs](https://www.gravitysketch.com/careers/)
 
-| VR design prototyping. |  [Jobs](https://www.gravitysketch.com/careers/) |
-
-[Nexus Studios](https://nexusstudios.com/immersive/) | London, UK | [Jobs](https://nexusstudios.com/joinus/)
+[Nexus Studios](https://nexusstudios.com/immersive/) | London, UK | 
 * Creative AR & Immersive studio. 
+* [Jobs](https://nexusstudios.com/joinus/)
 
 [Fit XR](https://fitxr.com/) | London, UK & Remote
 * VR fitness studios. | [Jobs](https://fitxr-1642768457.teamtailor.com/jobs)
