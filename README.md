@@ -18,6 +18,10 @@ The format for companies is the following:
 
   Creative AR & Immersive studio.
 
+- [Fit XR](https://fitxr.com/) | London, UK & Remote
+
+  VR fitness studios. 
+
 - [Zaubar](https://zaubar.com/) | Berlin, Germany
 
   AR based tours platform.
@@ -25,10 +29,6 @@ The format for companies is the following:
 - [Amelia Virtual Care](https://ameliavirtualcare.com/) | Barcelona, Spain
 
   VR tool for mental health professionals.
-
-- [Fit XR](https://fitxr.com/) | London, UK & Remote
-
-  VR fitness studios. 
 
 ## USA
 - [IRL Studios Inc](https://www.linkedin.com/company/irlstudios/), Santa Monica, USA 
