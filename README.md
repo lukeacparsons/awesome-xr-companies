@@ -5,13 +5,11 @@ A list of companies working in the VR, AR (XR) space.
 ## Non-Gaming
 
 
-| Name                                              | HQ Location   | About                    | Careers Page |
-| -------------                                     | ------------- | ------------------------ | ------------ |
-| [Gravity Sketch](https://www.gravitysketch.com/)  | London, UK    |                          |              |
-| [Zaubar](https://zaubar.com/)                     | Berlin, DE    | AR based tours platform. |              |
-
-
-Nexus Studios, London, UK https://nexusstudios.com/immersive/ - Creative AR & Immersive studio.
+| Name                                              			| HQ Location   | About                    		| Careers Page |
+| -------------                                     			| ------------- | ------------------------ 		| ------------ |
+| [Gravity Sketch](https://www.gravitysketch.com/)  			| London, UK    |                          		|              |
+| [Zaubar](https://zaubar.com/)                     			| Berlin, DE    | AR based tours platform. 		|              |
+| [Nexus Studios](https://nexusstudios.com/immersive/)		    	| London, UK    | Creative AR & Immersive studio. 	|              |
 
 ## Gaming
 IRL Studios Inc. Santa Monica, CA, USA https://www.linkedin.com/company/irlstudios/ - Makers of Gym Class VR (Basketball)
