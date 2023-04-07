@@ -46,5 +46,11 @@ The format for companies is the following:
 [VSpatial](https://www.vspatial.com/) | Provo, UT, USA 
 * Virtual office.
 
+## Asia & Australia
+[Alta VR](https://www.altavr.io/) | Brisbane, QLD, Australia  & Remote
+* VR RPG.
+* [Jobs](https://www.altavr.io/careers/)
+
+
 # Headsets & Hardware
 | [Meta Reality Labs](https://about.meta.com/realitylabs/)		| USA | Meta Quest Headsets |
