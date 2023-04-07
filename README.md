@@ -36,22 +36,22 @@ The format for companies is the following:
 
 
 ## USA
-[IRL Studios Inc](https://www.linkedin.com/company/irlstudios/) | Santa Monica, CA, USA
+[IRL Studios Inc](https://www.linkedin.com/company/irlstudios/) | Santa Monica, CA
 * Makers of Gym Class VR Basketball. 
 * [Jobs](https://www.linkedin.com/company/irlstudios/jobs/)
 
-[For Fun Labs](https://www.linkedin.com/company/for-fun-labs/) | Austin, TX, USA 
+[For Fun Labs](https://www.linkedin.com/company/for-fun-labs/) | Austin, TX
 * Makers of Eleven VR Table Tennis. 
 * [Jobs](https://elevenvr.com/en/careers/)
 
-[Immersed](https://www.linkedin.com/company/immersed/) | Austin, TX, USA 
+[Immersed](https://www.linkedin.com/company/immersed/) | Austin, TX
 * Virtual desktop monitors.
 * [Jobs](https://www.linkedin.com/company/immersed/jobs/)
 
-[VSpatial](https://www.vspatial.com/) | Provo, UT, USA 
+[VSpatial](https://www.vspatial.com/) | Provo, UT
 * Virtual office.
 
-[Strivr](https://www.strivr.com/) | Santa Clara, CA, USA 
+[Strivr](https://www.strivr.com/) | Santa Clara, CA
 * Immersive video and training, focussed on sports and industrial applications.
 * [Jobs](https://www.linkedin.com/company/strivr/jobs/) 
 
