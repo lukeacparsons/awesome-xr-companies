@@ -12,6 +12,7 @@ Short description.
 # Applications
 
 [Gravity Sketch](https://www.gravitysketch.com/) | London, UK | 2016
+
 VR design prototyping.
 
 [Nexus Studios](https://nexusstudios.com/immersive/) | London, UK | ? 
