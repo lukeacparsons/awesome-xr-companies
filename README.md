@@ -24,24 +24,27 @@ The format for companies is the following:
 
 [Zaubar](https://zaubar.com/) | Berlin, Germany
 * AR based tours platform. 
-*[Jobs](https://join.com/companies/zaubar)
+* [Jobs](https://join.com/companies/zaubar)
 
 [Amelia Virtual Care](https://ameliavirtualcare.com/) | Barcelona, Spain
-* VR tool for mental health professionals. | [Jobs](https://jobs.ameliavirtualcare.com/#jobs)
+* VR tool for mental health professionals. 
+* [Jobs](https://jobs.ameliavirtualcare.com/#jobs)
 
 ## USA
 [IRL Studios Inc](https://www.linkedin.com/company/irlstudios/), Santa Monica, USA 
-* Makers of Gym Class VR Basketball. | [Jobs](https://www.linkedin.com/company/irlstudios/jobs/)
+* Makers of Gym Class VR Basketball. 
+* [Jobs](https://www.linkedin.com/company/irlstudios/jobs/)
 
 [For Fun Labs](https://www.linkedin.com/company/for-fun-labs/), Austin, USA 
-* Makers of Eleven VR Table Tennis. | [Jobs](https://elevenvr.com/en/careers/)
+* Makers of Eleven VR Table Tennis. 
+* [Jobs](https://elevenvr.com/en/careers/)
 
 [Immersed](https://www.linkedin.com/company/immersed/), Austin, USA 
-* Virtual desktop monitors. | [Jobs](https://www.linkedin.com/company/immersed/jobs/)
+* Virtual desktop monitors.
+* [Jobs](https://www.linkedin.com/company/immersed/jobs/)
 
 [VSpatial](https://www.vspatial.com/), Provo, USA 
 * Virtual office.
-
 
 # Headsets & Hardware
 | [Meta Reality Labs](https://about.meta.com/realitylabs/)		| USA | Meta Quest Headsets |
