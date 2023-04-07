@@ -1,5 +1,5 @@
 # awesome-xr-companies
-Collection of companies working in the VR, AR (XR) space.
+Collection of companies working in the XR (VR and AR) space.
 
 The format for companies is the following:
 
