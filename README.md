@@ -12,6 +12,7 @@ The format for companies is the following:
 ## Europe & UK
 
 - [AquaAgro](https://aquaagro.smartcube.pk/) | Karachi, Pakistan | 2018
+
   Provides solutions for precision farming, enabling farmers to monitor their crops and make better decisions. Their devices and platform can make predictions for irrigation scheduling, fertilizer requirement, pest attack prediction, and plant disease detection.
 
 
