@@ -27,7 +27,7 @@ The format for companies is the following:
 * [Jobs](https://www.ndreams.com/careers)
 
 [Fast Travel Games](https://www.fasttravelgames.com/) | Stockholm, Sweden
-* Fast Travel Games is a VR game development studio focused on creating immersive story-driven games like Apex Construct and The Curious Tale of the Stolen Pets.
+* Fast Travel Games is a VR game development studio. They've made Virtuoso VR, Apex Construct and The Curious Tale of the Stolen Pets among others.
 * [Jobs](https://careers.fasttravelgames.com/)
 
 [Resolution Games](https://www.resolutiongames.com/) | Stockholm, Sweden
