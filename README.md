@@ -49,7 +49,7 @@ The format for companies is the following:
 
 [Vertigo Games](https://www.vertigo-games.com/) | Rotterdam, Netherlands
 * Vertigo Games is a VR game developer and publisher known for titles like Arizona Sunshine and After the Fall.
-* [Jobs](https://www.vertigo-games.com/careers)
+* [Jobs](https://vertigo-games.com/jobs/)
 
 ## USA
 [IRL Studios Inc](https://www.linkedin.com/company/irlstudios/) | Santa Monica, CA
