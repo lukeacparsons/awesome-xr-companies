@@ -79,14 +79,9 @@ The format for companies is the following:
 * Survios is a VR game developer and publisher known for games like Raw Data, Sprint Vector, and Creed: Rise to Glory.
 * [Jobs](https://survios.com/careers/)
 
-[AltspaceVR (Microsoft)](https://altvr.com/) | Redmond, Washington, USA
-* AltspaceVR is a social VR platform that enables users to meet, interact, and attend events in virtual reality.
-* [Jobs](https://careers.microsoft.com/)
-
 [Bigscreen](https://www.bigscreenvr.com/) | San Francisco, California, USA
 * Bigscreen is a social VR platform that enables users to watch movies, play games, and hang out with friends in a virtual environment.
 * [Jobs](https://www.linkedin.com/company/bigscreenvr/jobs/)
-
 
 [Cloudhead Games](https://www.cloudheadgames.com/) | Qualicum Beach, British Columbia, Canada
 * Cloudhead Games is a VR game development studio known for titles like The Gallery and Pistol Whip.
