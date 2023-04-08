@@ -47,10 +47,6 @@ The format for companies is the following:
 * Immersive video (adult).
 * [Jobs](https://www.mad.io/jobs)
 
-[Beat Games](https://www.beatsaber.com/) | Prague, Czech Republic
-* Beat Games is the developer of the popular rhythm game Beat Saber, which has become a hit in the VR gaming community.
-* [Jobs](https://www.linkedin.com/company/beat-games/jobs/)
-
 [Vertigo Games](https://www.vertigo-games.com/) | Rotterdam, Netherlands
 * Vertigo Games is a VR game developer and publisher known for titles like Arizona Sunshine and After the Fall.
 * [Jobs](https://www.vertigo-games.com/careers)
