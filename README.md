@@ -75,10 +75,6 @@ The format for companies is the following:
 * Immersive video and training, focussed on sports and industrial applications.
 * [Jobs](https://www.linkedin.com/company/strivr/jobs/) 
 
-[NextVR](https://www.nextvr.com/) | Newport Beach, California, USA
-* NextVR specializes in live VR broadcasts of sports, music, and entertainment events.
-* [Jobs](https://www.linkedin.com/company/nextvr/jobs/)
-
 [Survios](https://survios.com/) | Los Angeles, California, USA
 * Survios is a VR game developer and publisher known for games like Raw Data, Sprint Vector, and Creed: Rise to Glory.
 * [Jobs](https://survios.com/careers/)
